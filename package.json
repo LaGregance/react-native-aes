@@ -1,14 +1,13 @@
 {
-    "name": "react-native-aes-crypto",
-    "version": "1.3.10",
+    "name": "@lagregance/react-native-aes-crypto",
+    "version": "0.1",
     "description": "AES crypto native module for react-native",
     "main": "index.js",
     "types": "index.d.ts",
-    "author": "tectiv3",
+    "author": "tectiv3,LaGregance",
     "license": "MIT",
     "keywords": [
         "react-native",
-        "react-component",
         "ios",
         "android",
         "aes",
@@ -23,15 +22,12 @@
         "hmac512",
         "uuid"
     ],
-    "homepage": "https://github.com/tectiv3/react-native-aes",
+    "homepage": "https://github.com/LaGregance/react-native-aesaes",
     "bugs": {
-        "url": "https://github.com/tectiv3/react-native-aes/issues"
+        "url": "https://github.com/LaGregance/react-native-aes/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/tectiv3/react-native-aes.git"
-    },
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "url": "https://github.com/LaGregance/react-native-aes.git"
     }
 }
