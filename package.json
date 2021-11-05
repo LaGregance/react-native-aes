@@ -1,6 +1,6 @@
 {
     "name": "@lagregance/react-native-aes-crypto",
-    "version": "0.1",
+    "version": "0.1.0",
     "description": "AES crypto native module for react-native",
     "main": "index.js",
     "types": "index.d.ts",
