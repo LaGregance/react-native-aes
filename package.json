@@ -1,33 +1,37 @@
 {
-    "name": "@lagregance/react-native-aes-crypto",
-    "version": "0.1.0",
-    "description": "AES crypto native module for react-native",
-    "main": "index.js",
-    "types": "index.d.ts",
-    "author": "tectiv3,LaGregance",
-    "license": "MIT",
-    "keywords": [
-        "react-native",
-        "ios",
-        "android",
-        "aes",
-        "crypto",
-        "mobile",
-        "async",
-        "sha1",
-        "sha256",
-        "sha512",
-        "pbkdf2",
-        "hmac256",
-        "hmac512",
-        "uuid"
-    ],
-    "homepage": "https://github.com/LaGregance/react-native-aesaes",
-    "bugs": {
-        "url": "https://github.com/LaGregance/react-native-aes/issues"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/LaGregance/react-native-aes.git"
-    }
+  "name": "@lagregance/react-native-aes-crypto",
+  "version": "0.1.1",
+  "description": "AES crypto native module for react-native",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "author": "tectiv3,LaGregance",
+  "license": "MIT",
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "aes",
+    "crypto",
+    "mobile",
+    "async",
+    "sha1",
+    "sha256",
+    "sha512",
+    "pbkdf2",
+    "hmac256",
+    "hmac512",
+    "uuid"
+  ],
+  "homepage": "https://github.com/LaGregance/react-native-aesaes",
+  "bugs": {
+    "url": "https://github.com/LaGregance/react-native-aes/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaGregance/react-native-aes.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
